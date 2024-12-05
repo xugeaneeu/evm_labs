@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( usb_info )
+include_directories(/usr/include/libusb-1.0)
+add_executable( usb_info libusb_lab.cpp )
+target_link_libraries( usb_info usb-1.0)

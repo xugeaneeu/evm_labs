@@ -1,0 +1,3 @@
+/home/xugeaneeu/EVM_prakt4/opencv_lab/build/CMakeFiles/DisplayImage.dir
+/home/xugeaneeu/EVM_prakt4/opencv_lab/build/CMakeFiles/edit_cache.dir
+/home/xugeaneeu/EVM_prakt4/opencv_lab/build/CMakeFiles/rebuild_cache.dir
