@@ -30,6 +30,10 @@ void Measure(const int * data, const size_t size) {
     k = data[k];
   }
   size_t end = __rdtsc();
+
+  if (k == 0) {
+    std::cout << " ";
+  }
   std::cout << (end - start)/(size*K) << std::endl;
 }
 
